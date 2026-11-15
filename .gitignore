@@ -1,0 +1,19 @@
+# Datasets
+work/data/
+
+# Training outputs
+work/runs/
+
+# Python
+__pycache__/
+*.pyc
+
+# Checkpoints
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Environment
+.venv/
+venv/

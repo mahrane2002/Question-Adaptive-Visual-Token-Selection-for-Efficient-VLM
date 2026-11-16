@@ -17,3 +17,5 @@ __pycache__/
 # Environment
 .venv/
 venv/
+# COCO images (re-downloaded by section 4.5)
+work/fast/
